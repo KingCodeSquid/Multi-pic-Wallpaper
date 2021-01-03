@@ -39,3 +39,5 @@ You can do that by doing cd location/of/the/python/file
 Once in the location write: pythonw "main.py"
 
 Done! You can now close the commmand prompt
+
+(to close it end the "python" task in your task manager)
