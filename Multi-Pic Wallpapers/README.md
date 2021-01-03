@@ -1,6 +1,10 @@
 Please edit "config.json" to match your needs.
 Only change "secondsUntilChange", "shuffledOrder" and "PATH" (if needed).
 
+Download
+--------------
+https://bit.ly/357bJW2
+
 
 Meanings
 --------------
@@ -14,7 +18,6 @@ Meanings
 
 Rules
 --------------
-
 
 **DO NOT EDIT SPI_SET_WALLPAPER IN "config.json"!! IF CHANGED THE PROGRAM MIGHT NOT WORK!!**
 
