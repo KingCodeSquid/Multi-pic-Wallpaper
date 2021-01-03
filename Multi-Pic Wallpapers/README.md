@@ -19,7 +19,7 @@ Rules
 **DO NOT EDIT SPI_SET_WALLPAPER IN "config.json"!! IF CHANGED THE PROGRAM MIGHT NOT WORK!!**
 
 
-If you set shuffeledOrder to 0 or no, you must name the files by order as numbers from 1 up. Example: 1.jpg, 2.jpg, 3.jpg, etc. You must name them like that or they will not work.
+If you set shuffeledOrder to 0 or "no", you must name the files by order as numbers from 1 up. Example: 1.jpg, 2.jpg, 3.jpg, etc. You must name them like that or they will not work.
 
 
 Only set "PATH" to where you stored the pictures. If you put your pictures in "Put your pictures in here", than **DO NOT** change the "PATH" variable.
